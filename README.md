@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bharat Silavat
+- 👋 Hi, I’m @Bharat Shilavat
 - 👀 I’m interested in iOS Development
 - 🌱 I’m currently learning SwiftData
 - 💞️ I’m looking to collaborate on new & exciting projects
